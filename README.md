@@ -8,4 +8,4 @@ Currently working on improving accuracy and supporting more complex images.
 
 SAMPLE OUTPUT
 
-<img width="1812" height="717" alt="image" src="PASTE-THE-GITHUB-GENERATED-IMAGE-URL-HERE" />
+<img width="1812" height="717" alt="Automation Drawing Bot" src="./sample-output.png" />
